@@ -4,5 +4,8 @@ this is a Demo for Git &amp; Github class.
 # Teacher
 sagar tamang
 
-# Student 
+# Student
 suren tamang
+
+# Student 2
+anushka
